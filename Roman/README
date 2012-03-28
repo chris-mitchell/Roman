@@ -1,0 +1,5 @@
+A simple library for converting back and forth between Roman numerals and a decimal numeral system. 
+
+Has basic limitations such as it cannot count larger than 3999 due to constraints on the Roman numerals. It also does not do basic checking.
+
+Intended to play with Python. 
